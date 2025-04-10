@@ -1,3 +1,3 @@
 return {
-    ["32"] = true
+    ["39"] = true
 }
