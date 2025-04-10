@@ -1,4 +1,4 @@
 return {
-    ["HB1"] = true,
+    ["HB1b3kmGW9cBPyBm"] = true,
     ["VIP1234"] = true
 }
