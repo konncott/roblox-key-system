@@ -1,3 +1,3 @@
 return {
-    ["VIP1234"] = true
+    ["25d1rRsZu3Dq4Ak"] = true
 }
